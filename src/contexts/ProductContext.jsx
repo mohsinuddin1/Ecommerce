@@ -1,3 +1,4 @@
+import { data } from 'autoprefixer';
 import React,{createContext,useState,useEffect} from 'react';
 
 export const ProductContext=createContext();
@@ -10,6 +11,7 @@ const fetchProducts=async()=>{
     const data=await response.json();
     SetProducts(data);
 };
+console.log(data);
 fetchProducts();
   },[]);
   return <ProductContext.Provider value={{products}}>{children}</ProductContext.Provider>;

@@ -15,7 +15,8 @@ export default function App() {
 
   return (
     <div className="overflow-hidden">
-      <Router>
+      <Router
+       basename={import.meta.env.DEV ? '/' : '/Ecommerce/'} >
         <Header />
         <Routes>
           <Route path='/' element={<Home />} />
