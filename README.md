@@ -1,5 +1,7 @@
 # Ecommerce App using React+Vite and Tailwind Css
-
+![Screenshot_1](https://github.com/mohsinuddin1/Ecommerce/assets/67328021/648d809e-f11a-4286-91a6-18119d926a56)
+![Screenshot_2](https://github.com/mohsinuddin1/Ecommerce/assets/67328021/0314ba92-ee1b-40b7-9064-fa9c27eb1911)
+![Screenshot_3](https://github.com/mohsinuddin1/Ecommerce/assets/67328021/6adc9c17-00b9-4a80-97c1-fe99026ead00)
 # Ecommerce Clothing App
 
 Welcome to the Ecommerce Clothing App repository! This is a basic e-commerce application built with React, Vite, JavaScript, and Tailwind CSS. This app showcases fundamental features like adding items to a cart and utilizing state management through React Context API.
