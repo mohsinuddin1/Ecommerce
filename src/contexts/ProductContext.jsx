@@ -11,7 +11,7 @@ const fetchProducts=async()=>{
     const data=await response.json();
     SetProducts(data);
 };
-//console.log(data);
+console.log(data);
 fetchProducts();
   },[]);
   return <ProductContext.Provider value={{products}}>{children}</ProductContext.Provider>;
