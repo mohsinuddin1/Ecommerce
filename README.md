@@ -41,13 +41,13 @@ To run the Ecommerce Clothing App locally, follow these steps:
 1. **Clone the Repository**: Start by cloning this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/ecommerce-clothing-app.git
+   git clone https://github.com/mohsinuddin1/Ecommerce.git
    ```
 
 2. **Navigate to the Project Folder**: Change your current directory to the project folder:
 
    ```bash
-   cd ecommerce-clothing-app
+   cd Ecommerce
    ```
 
 3. **Install Dependencies**: Install the project dependencies using npm or yarn:
